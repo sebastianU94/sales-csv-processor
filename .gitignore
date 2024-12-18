@@ -19,7 +19,7 @@ Thumbs.db
 
 # CSV and JSON files (to avoid pushing company-sensitive data)
 *.csv
-*.json
+db.json
 
 # Temporary files
 *.tmp
